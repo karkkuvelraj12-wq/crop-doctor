@@ -1,0 +1,10 @@
+build/
+.dart_tool/
+.idea/
+.vscode/
+.flutter-plugins
+.flutter-plugins-dependencies
+android/.kotlin/
+android/replay_pid*.log
+android/hs_err_pid*.log
+*.iml
